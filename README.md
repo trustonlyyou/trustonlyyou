@@ -6,7 +6,7 @@
     - Java, Servlet, Spring Framework, Spring Boot(studying)
   
   - Front End
-    - Html, CSS, JavaScript, jQuerym, jsp, Ajax, Bootstrap, thymeleaf(studying)
+    - Html, CSS, JavaScript, jQuery, jsp, Ajax, Bootstrap, thymeleaf(studying)
 
   - ORM
     - Mybatis, JPA(studying)
