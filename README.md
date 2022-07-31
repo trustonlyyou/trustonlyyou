@@ -3,16 +3,17 @@
 
 ### Available Skills
   - Back End
-    - Java, Servlet, Spring Framework, Spring Boot(studying)
+    - Java, Servlet, Spring Framework, Spring Boot
   
   - Front End
-    - Html, CSS, JavaScript, jQuery, jsp, Ajax, Bootstrap, thymeleaf(studying), Vue.js(studying)
+    - Html, CSS, JavaScript, jQuery, jsp, Ajax, Bootstrap, thymeleaf
 
   - ORM
     - Mybatis, JPA(studying)
 
   - SQL
     - MySQL
+    - Oracle
 
   - BuildTool
     - Maven
@@ -22,6 +23,12 @@
 
   - Middleware
     - Tomcat
+    - Apache
 
-  - OS
-    - Linux(studying)
+  - Linux
+    - Ubuntu
+
+  - Communication Tools
+    - Slack
+    - Jira
+    
