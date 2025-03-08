@@ -1,15 +1,20 @@
 ### NAME : 오정환(OH JUNG HWAN)🧑🏻‍💻
-### POSITION : JAVA BACK_END DEVELOPER
+### POSITION : BACK_END DEVELOPER
 
 ### Available Skills
   - Back End
-    - Java, Servlet, Spring Framework, Spring Boot, Spring Batch
+    - Java
+    - Spring Framework, Spring Boot
+    - Spring Batch
+    - Spring Gateway
+    - Netflix-eureka
+
   
   - Front End
     - Html, CSS, JavaScript, jQuery, jsp, Ajax, Bootstrap, thymeleaf
 
   - ORM
-    - Mybatis, JPA
+    - Mybatis, JPA, QueryDSL
 
   - SQL
     - MySQL
@@ -17,6 +22,7 @@
 
   - BuildTool
     - Maven
+    - Gradle
 
   - SCM
     - Git
@@ -30,7 +36,7 @@
 
   - Linux
     - Ubuntu
-    - centOS
+    - CentOS
 
   - Communication Tools
     - Slack
